@@ -222,7 +222,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-Hist
 https://liveanevia.mncnow.id/live/eds/AndTV/sa_hls/AndTV-avc1_2499968=12.m3u8-AndTV-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/ZeeCinemaEn.sa.png" group-title="MNC",Zee Cinema
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="MNC",Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapore/Malaysia",Channel 5
