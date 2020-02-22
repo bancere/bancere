@@ -539,9 +539,9 @@ https://live.mawintv2.com/03_skynetsport4_480p/chunklist.m3u8
 https://live.mawintv2.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sports",SkynetSport 6
 https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/375px-Premier_League_Logo.svg.png" group-title="Sport", True Premier1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/375px-Premier_League_Logo.svg.png" group-title="Sports", True Premier1
 https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/375px-Premier_League_Logo.svg.png" group-title="Sport", True Premier2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/375px-Premier_League_Logo.svg.png" group-title="Sports", True Premier2
 https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Sports",BeIN Sports 1
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
