@@ -139,6 +139,8 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="Indonesia",MNC
+https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://img.inews.id/media/200/files/inews/inews_01.png" group-title="Indonesia",I News
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
