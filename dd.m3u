@@ -336,62 +336,64 @@ https://edge.siar.us/tvririau/live/playlist.m3u8
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/USEEPHOTOHD.png" group-title="Indonesia",Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+#EXTINF:-1 group-title="USEE TV",IDX
+https://cdnmdc2.useetv.com/joss/14/idx/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1  group-title="USEE TV",WakuWaku Japan
-https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",NET
-https://vcdnjt.useetv.com/joss/15/net/chunklist_w1282666037_b1344100_sleng.m3u8?enc=DzGVYpOjD8zYlQs5RDOASg&exp=1585457767
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",TVRI
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w671362713_b684100_sleng.m3u8?enc=RxGpJ9PJpQsCaRruyoXHiQ&exp=1585458142
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",METRO TV
-https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1450166846_b1344100_sleng.m3u8?enc=9lQcKXUC0NedcoYxPI0owA&exp=1585457718
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",KOMPAS TV
-https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w520544126_b894100_sleng.m3u8?enc=vqmazj1-8olO1OHHJj-akA&exp=1585457674
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",TRANS TV
-https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1531773202_b684100_sleng.m3u8?enc=YRmQ3F7SBsfbhjg02LoPkg&exp=1584794965
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",TRANS7
-https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w800433899_b684100_sleng.m3u8?enc=udI6_WwD8dF4yx18ZjcXFw&exp=1584795676
-#EXTINF:-1 group-title="USEE TV",NET TV
-https://vcdnjt.useetv.com/joss/15/bumperslate/chunklist_w1404732204_b894100_sleng.m3u8?enc=X82E8QKrwjswZo5yJtycag&exp=1584795774
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",INDOSIAR
-ttps://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1095388462_b894100_sleng.m3u8?enc=8V4Cf1M2uA_RYBfF4tySkA&exp=1584795947
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",RTV
-https://cdnkbl2.useetv.com/joss/14/rtv/chunklist_w1282137066_b684100_sleng.m3u8?enc=1GWHSjsNJcnhboDmdWfHMw&exp=1584797725
+https://cdnkbl2.useetv.com/joss/14/rtv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",SCTV
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w899071509_b894100_sleng.m3u8?enc=i9Gx8Hj2CRay6DE2KFUENQ&exp=1584796121
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",TV ONE
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w842404487_b894100_sleng.m3u8?enc=L8W_5ybofY9z9WAejxQ5jA&exp=1584796197
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",ANTV
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1259405067_b894100_sleng.m3u8?enc=4Tcwc9BJEr3TZd6jXYAkSA&exp=1584796421
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",NATIONAL GEGRAPHIC
-https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1680774976_b894100_sleng.m3u8?enc=PL4RRkYEmUOCNiIZPKaZMQ&exp=1584798450
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",NAT GEO POEPLE
-https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w1088444012_b894100_sleng.m3u8?enc=-H087jEyZOHcD_P_ZoYvnQ&exp=1584798584
+https://cdnmdc2.useetv.com/joss/15/natgeopeople/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",NAT GEO WILD
-https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1546557041_b894100_sleng.m3u8?enc=0nlAg7W6fEOf0QuY_aeW-w&exp=1584798739
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",DISCOVERY CHANEL
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1683347992_b894100_sleng.m3u8?enc=nOhqjC3eP-qWUfqr4LlDCA&exp=1584799014
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",HISTORY
-https://vcdnjt.useetv.com/joss/15/history/chunklist_w451542495_b894100_sleng.m3u8?enc=oCZ0triif_wAfn3aoXufFA&exp=1584800485
+https://vcdnjt.useetv.com/joss/15/history/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",AFN
-https://vcdnjt.useetv.com/joss/15/afc/chunklist_w1889645942_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/afc/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",BOOMERANG
-https://cdnmdc1.useetv.com/joss/14/boomerang/chunklist_w1220876895_b684100_sleng.m3u8?enc=_pB1fWC3k9dJLHEH0IzR3A&exp=1584799137
+https://cdnmdc1.useetv.com/joss/14/boomerang/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",NICKELODEON
-https://cdnbal1.useetv.com/joss/14/nickelodeon/chunklist_w433153705_b684100_sleng.m3u8?enc=vAkkHRZJb8Wi87NBEsr-Xw&exp=1584799319
+https://cdnmdc1.useetv.com/joss/14/nickelodeon/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",DREAMWORKS
-https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng.m3u8?enc=b4wq2Fz9qPzjJTNgknB-kQ&exp=1584799531
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",AXN
-https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1228786229_b894100_sleng.m3u8?enc=cG4K0nGSqlS9bY45qCCXtw&exp=1584799779
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",TVN
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8?enc=PN87OzL29G4ymOlQslPNwg&exp=1584799876
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",TVN MOVIE
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w692462726_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
+#EXTINF:-1 group-title="USEE TV",TVN MOVIE
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",K+
-https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w360514910_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",BEIN 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w524430809_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
 #EXTINF:-1 group-title="USEE TV",CHAMPION 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w563833662_b1344100_sleng.m3u8?enc=CboUowA63eQvk9x78vwhFg&exp=1584629625
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Investigation Discovery
