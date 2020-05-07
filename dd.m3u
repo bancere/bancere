@@ -882,6 +882,67 @@ https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="Financial News",Intereconomía
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
+http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
+http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="UK",BBC Lifestyle
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",CBS Reality
+http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="UK",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="UK",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
+http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="UK",More4
+http://145.239.255.4:8080/more4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
+http://145.239.255.4:8080/E4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Film4
+http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="UK",Channel 5
+http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="UK",5 Select
+http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="UK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="UK",Eman
+https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
+http://145.239.255.4:8080/gold/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="UK",PBS America
+http://51.52.156.22:8888/http/012
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="UK",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="UK",Kerrang!
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="UK",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop UK
+http://51.52.156.22:8888/http/015
+#EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="UK",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UK",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="UK",RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="UK",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5
