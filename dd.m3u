@@ -859,6 +859,8 @@ https://sgp-azure-1.macan.live/free/hbo_hits/playlist.m3u8
 https://sgp-azure-1.macan.live/free/hits_movies/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",Sony One
 https://sgp-azure-1.macan.live/free/sonyone/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Star Chinese Movies
+https://sgp-azure-1.macan.live/free/scm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Learning",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
