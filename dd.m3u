@@ -733,7 +733,7 @@ https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_w1347672527_b684100_sleng_4791
 #EXTINF:-1 group-title="USEE TV",Bali TV
 https://vcdnjt.useetv.com/joss/14/balitv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 
-#EXTINF:-1 group-title="MACAN",FOX SPORTS
+#EXTINF:-1 group-title="MACAN",FOX SPORTS 1
 https://sgp-azure-1.macan.live/free/fox_sport_1/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",DISCOVERY ASIA
 https://sgp-azure-1.macan.live/free/discoveryasia/playlist.m3u8
@@ -775,8 +775,6 @@ https://sgp-azure-1.macan.live/free/foxcrime/playlist.m3u8
 https://sgp-azure-1.macan.live/free/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",FX
 https://sgp-azure-1.macan.live/free/fx/playlist.m3u8
-#EXTINF:-1 group-title="MACAN",DISCOVERY CHANNEL
-https://sgp-azure-1.macan.live/free/discoverychannel/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",CHANNEL V
 https://sgp-azure-1.macan.live/free/channelv/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",WARNER TV
@@ -861,6 +859,46 @@ https://sgp-azure-1.macan.live/free/hits_movies/playlist.m3u8
 https://sgp-azure-1.macan.live/free/sonyone/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",Star Chinese Movies
 https://sgp-azure-1.macan.live/free/scm/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",ARIRANG
+https://sgp-azure-1.macan.live/free/arirang/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",RT
+https://sgp-azure-1.macan.live/free/russia_today/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Animax
+https://sgp-azure-1.macan.live/free/animax/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Astro Ceria
+https://sgp-azure-1.macan.live/free/astro_ceria/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Astro Oasis
+https://sgp-azure-1.macan.live/free/astro_oasis/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Astro Prima
+https://sgp-azure-1.macan.live/free/astro_prima/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Astro Ria
+https://sgp-azure-1.macan.live/free/astro_ria/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Astro Warna
+https://sgp-azure-1.macan.live/free/astro_warna/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FOX SPORTS 2
+https://sgp-azure-1.macan.live/free/fox_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FOX SPORTS 3
+https://sgp-azure-1.macan.live/free/fox_sport_3/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FOX MOVIES PREMIUM
+https://sgp-azure-1.macan.live/free/foxmoviespremium/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FOX ACTION MOVIES
+https://sgp-azure-1.macan.live/free/foxactionmovies/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FOX FAMILY MOVIES
+https://sgp-azure-1.macan.live/free/foxfamilymovies/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",BLUE ANT EXTREME
+https://sgp-azure-1.macan.live/free/blue_ant_extreme/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",BLUE ANT
+https://sgp-azure-1.macan.live/free/blue_ant_entertainment/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",BBC Lifestyle
+https://sgp-azure-1.macan.live/free/bbc_lifestyle/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",BBC EARTH
+https://sgp-azure-1.macan.live/free/bbc_earth/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",TVN
+https://sgp-azure-1.macan.live/free/tvn/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",THRILL
+https://sgp-azure-1.macan.live/free/thrill/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",KIX
+https://sgp-azure-1.macan.live/free/kix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Learning",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
