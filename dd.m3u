@@ -899,6 +899,22 @@ https://sgp-azure-1.macan.live/free/tvn/playlist.m3u8
 https://sgp-azure-1.macan.live/free/thrill/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",KIX
 https://sgp-azure-1.macan.live/free/kix/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",CNN Indonesia
+https://sgp-azure-1.macan.live/free/cnnindonesia_hd/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",FLIK
+https://sgp-azure-1.macan.live/free/flik_hd/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Waku Waku Japan
+https://sgp-azure-1.macan.live/free/wakuwaku/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",INEWS
+https://sgp-azure-1.macan.live/free/inews/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",DAAI TV
+https://sgp-azure-1.macan.live/free/daai/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",SCM Legend
+https://sgp-azure-1.macan.live/free/scmlegend/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Zee TV
+https://sgp-azure-1.macan.live/free/zeetv/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Zee Bioskop
+https://sgp-azure-1.macan.live/free/zeebioskop/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Learning",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
