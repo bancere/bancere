@@ -1130,6 +1130,8 @@ http://bddb.228888888.xyz:8081/live/ws143.m3u8
 http://bddb.228888888.xyz:8081/live/ws145.m3u8
 #EXTINF:-1 group-title="Taiwan/HK",動物星球
 http://bddb.228888888.xyz:8081/live/ws151.m3u8
+#EXTINF:-1 group-title="Taiwan/HK",CNN
+http://bbdd.228888888.xyz:8081/hls/ch315.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="SMART",凤凰香港
 http://198.16.106.58:8278/hkphoenix_twn/playlist.m3u8?tid=MF0F1153942811539428&ct=18392&tsum=b4f9d88f1b0b7d6eee8ebca3583dc7d5
