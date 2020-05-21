@@ -732,6 +732,10 @@ https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w1347672527_b684100_sleng_
 https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 group-title="USEE TV",Bali TV
 https://vcdnjt.useetv.com/joss/14/balitv/chunklist_w1347672527_b684100_sleng_4791.m3u8
+#EXTINF:-1  group-title="USEE TV",Waku Waku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
+#EXTINF:-1  group-title="USEE TV",Waku Waku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w690663546_b1344100_sleng_725497.m3u8
 
 #EXTINF:-1 group-title="MACAN",FOX SPORTS 1
 https://sgp-azure-1.macan.live/free/fox_sport_1/playlist.m3u8
@@ -915,6 +919,46 @@ https://sgp-azure-1.macan.live/free/scmlegend/playlist.m3u8
 https://sgp-azure-1.macan.live/free/zeetv/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",Zee Bioskop
 https://sgp-azure-1.macan.live/free/zeebioskop/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",NICK JR
+https://sgp-azure-1.macan.live/free/nickjr/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Galaxy Premium
+https://sgp-azure-1.macan.live/free/galaxy_premium/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Sinema Indonesia
+https://sgp-azure-1.macan.live/free/sinema_indonesia/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Jowo Channel
+https://sgp-azure-1.macan.live/free/jowo/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Dreamworks
+https://sgp-azure-1.macan.live/free/dreamworks/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Dunia Anak
+https://sgp-azure-1.macan.live/free/duniaanak/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Fashion TV
+https://sgp-azure-1.macan.live/free/fashiontv/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Fashion One
+https://sgp-azure-1.macan.live/free/fashionone/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",K+
+https://sgp-azure-1.macan.live/free/kplus/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",TV1
+https://sgp-azure-1.macan.live/free/tv1/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",TV2
+https://sgp-azure-1.macan.live/free/tv2/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Citra Drama
+https://sgp-azure-1.macan.live/free/citra_drama/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Citra Bioskop
+https://sgp-azure-1.macan.live/free/citra_bioskop/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Citra Entertainment
+https://sgp-azure-1.macan.live/free/citra_entertainment/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Dunia Lain
+https://sgp-azure-1.macan.live/free/dunialain/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",BeSmart
+https://sgp-azure-1.macan.live/free/besmart/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",E-Konser
+https://sgp-azure-1.macan.live/free/e_konser/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",MTV Live HD
+https://sgp-azure-1.macan.live/free/mtv_live/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Aniplus
+https://sgp-azure-1.macan.live/free/aniplus/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",Salam TV
+https://sgp-azure-1.macan.live/free/salam_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Taiwan/HK",TVB翡翠
 http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
