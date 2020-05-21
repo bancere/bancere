@@ -734,8 +734,34 @@ https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_w1347672527_b684100_sleng_4791
 https://vcdnjt.useetv.com/joss/14/balitv/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1  group-title="USEE TV",Waku Waku Japan
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
-#EXTINF:-1  group-title="USEE TV",Waku Waku Japan
+#EXTINF:-1  group-title="USEE TV",Waku Waku Japan HD
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",CNN INTERNATIONAL HD
+https://cdnmdc2.useetv.com/joss/15/cnninternational/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",ABC Australia HD
+https://cdnmdc2.useetv.com/joss/15/abcaustralia/chunklist_w1503209643_b894100_sleng_80932.m3u8
+#EXTINF:-1 group-title="USEE TV",METRO TV HD
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",TRANS TV HD
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",SCTV HD
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",NATIONAL GEGRAPHIC HD
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",NAT GEO WILD HD
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",DISCOVERY CHANEL HD
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",AFN HD
+https://vcdnjt.useetv.com/joss/15/afc/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",AXN HD
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",TVN MOVIE HD
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",KIX HD
+https://cdnmdc2.useetv.com/joss/15/kix/chunklist_w690663546_b1344100_sleng_725497.m3u8
+#EXTINF:-1 group-title="USEE TV",CNN INDONESIA HD
+https://cdnmdc2.useetv.com/joss/15/cnnindonesia/chunklist_w690663546_b1344100_sleng_725497.m3u8
 
 #EXTINF:-1 group-title="MACAN",FOX SPORTS 1
 https://sgp-azure-1.macan.live/free/fox_sport_1/playlist.m3u8
@@ -959,6 +985,8 @@ https://sgp-azure-1.macan.live/free/mtv_live/playlist.m3u8
 https://sgp-azure-1.macan.live/free/aniplus/playlist.m3u8
 #EXTINF:-1 group-title="MACAN",Salam TV
 https://sgp-azure-1.macan.live/free/salam_tv/playlist.m3u8
+#EXTINF:-1 group-title="MACAN",NATIONAL GEOGRAPHIC
+https://sgp-azure-1.macan.live/free/ngc/playlist.m3u8
 
 #EXTINF:-1 group-title="Taiwan/HK",TVB翡翠
 http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
