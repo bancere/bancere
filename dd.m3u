@@ -1301,6 +1301,217 @@ http://bddb.228888888.xyz:8081/live/ws151.m3u8
 #EXTINF:-1 group-title="Taiwan/HK",CNN
 http://bbdd.228888888.xyz:8081/hls/ch315.m3u8
 
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
+https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/ch5.png",5 HD
+https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/ch7.png",7 HD
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH HD
+https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN HD
+https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD 
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORKPOINT
+https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+https://www.livedoomovies.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+https://www.livedoomovies.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+https://www.livedoomovies.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+https://www.livedoomovies.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211134819NEW-TV.jpg",NEW TV
+https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+https://www.livedoomovies.com/02_TPTV_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO HITS
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO SIGNATURE
+https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/hbofam.png",HBO FAMILY
+https://www.livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd 1
+https://www.livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm hd 2
+https://www.livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
+https://leechviplink.ddnslive.com/app/fox-movies/chunks.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies Premium
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie TH
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie
+https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxthai.png",FOX THAI TH
+https://www.livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime TH
+https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX HD
+https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
+https://www.livedoomovies.com/02_FOX_Life_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
+https://www.livedoomovies.com/02_Thrill_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/kix.png",KIX
+https://www.livedoomovies.com/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png",COMEDY CENTRAL
+https://www.livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doohdbox.com/assets/201707091324071763565202.jpg",Star chinese Movies
+https://www.livedoomovies.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg",zeenang
+https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg",CCM
+https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg",JKN
+https://www.livedoomovies.com/02_JKN_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",มังกร
+https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.png",MChannel
+https://www.livedoomovies.com/02_MChannel_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",MONO PLUS
+https://www.livedoomovies.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
+https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD TH
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/natwild.png",NATGEO WILD
+https://www.livedoomovies.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC TH
+https://www.livedoomovies.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/natpeople.png",NATGEO PEOPLE
+https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",SAMRUJLOK
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvchina.png",MTV MUSIC
+https://www.livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE
+https://www.livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV ASiA
+https://www.livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/channelv.png",CHANNEL V
+https://www.livedoomovies.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="https://teevee-hd.com/img/fantv.png",FAN TV
+https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"tvg-logo="",NHK
+https://livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
+https://www.livedoomovies.com/02_CNN_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-deutschewelle.png",Deutsche Welle
+https://www.livedoomovies.com/02_DW_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-france24.png",FRANCE24
+https://www.livedoomovies.com/02_France_24_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctvnews.png",CCTV NEWS
+https://www.livedoomovies.com/02_CCTV_News_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctv.png",CCTV4 NEWS
+https://www.livedoomovies.com/02_CCTV4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Euronews.png",Euro News
+https://www.livedoomovies.com/02_Euronews_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png",Al Jazeera English
+https://www.livedoomovies.com/02_Al_Jazeera_En_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png",Al Jazeera Arabic
+https://www.livedoomovies.com/02_Al_Jazeera_Ara_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Sky_News.png",Sky News HD
+https://www.livedoomovies.com/02_Sky_News_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png",Fox News TH
+https://www.livedoomovies.com/02_Fox_News_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png",NHK WORLD TV
+https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png",RT TV HD
+https://www.livedoomovies.com/02_RT_TV_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCTV9.png",CCTV9
+https://www.livedoomovies.com/02_CCTV9_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEYXD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick jr TH
+https://www.livedoomovies.com/02_Nick_Jr_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
+https://www.livedoomovies.com/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand"  tvg-logo="https://imgcloud.fwiptv.cc/postor/2019032506051812377635_206785022990745_2323450990199693871_o.jpg",MIAO MI
+https://www.livedoomovies.com/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",BOOMERANG
+https://www.livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2 
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",TRUESPORT HD
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",TRUESPORT HD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",TRUESPORT HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",TRUESPORT HD4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg",TRUE SPORT 2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",SKYNETSPORT HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 1
+https://livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 2
+https://livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 3
+https://livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 4
+https://livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 5
+https://livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",SKYNETSPORT 6
+https://livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5
