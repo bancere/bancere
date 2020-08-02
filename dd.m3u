@@ -371,6 +371,31 @@ https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="Financial News",Intereconomía
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
 
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport1.png", SUPER SPORT 1
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport1/liveorigin/af-supersport1_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport2.png", SUPER SPORT 2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport2/liveorigin/af-supersport2_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport3.png", SUPER SPORT 3
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport3/liveorigin/af-supersport3_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport4.png", SUPER SPORT 4
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport4/liveorigin/af-supersport4_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport5.png", SUPER SPORT 5
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport5/liveorigin/af-supersport5_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport6.png", SUPER SPORT 6
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport6/liveorigin/af-supersport6_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport7.png", SUPER SPORT 7
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport7/liveorigin/af-supersport7_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport8.png", SUPER SPORT 8
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport8/liveorigin/af-supersport8_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport9.png", SUPER SPORT 9
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport9/liveorigin/af-supersport9_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport10.png", SUPER SPORT 10
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport10/liveorigin/af-supersport10_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport11.png", SUPER SPORT 11
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport11/liveorigin/af-supersport11_480/chunks.m3u8
+#EXTINF:-1 group-title = "Sports" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport12.png", SUPER SPORT 12
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8
+
 #EXTINF:-1 group-title="Taiwan/HK",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="Taiwan/HK",民視新聞
