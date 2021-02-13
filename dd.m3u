@@ -65,6 +65,61 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Singapore/Malaysia",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="VIDIO",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257217~acl=/hls-p/ingest_204_*/*~hmac=ac4b33670d1f81f8aa4c8d16ec38fe6d52db5810df3ff7ec0faf6911bb6996af/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="VIDIO",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1613257093~acl=/hls-p/ingest_205_*/*~hmac=b5ed2a4bf121a3e2145c134b97aff1833f9b86e17b5e545d0ad21bc63070e577/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ochannel.png" group-title="VIDIO",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1613257219~acl=/hls-p/ingest_206_*/*~hmac=a5493bd452217bdcf5021c53f2e79d8fa41a345f3dd0651939b02cbc4985c31f/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ajwatv.png" group-title="VIDIO",AJWA TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257101~acl=/hls-p/ingest_7464_*/*~hmac=52fb2e2539ac64fe429427cdcdb0ecb8487aa328f3469a39ed5e946d54198ae5/hls-p/ingest_7464_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title="VIDIO",AlQuran Kareem
+https://etslive-2-vidio-com.akamaized.net/exp=1613257220~acl=/hls-p/ingest_6852_*/*~hmac=30eaa7dabf6c62425896a1e85de4d86467782194d93f48cb629cb1bd60b660aa/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="VIDIO",Kompas TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257101~acl=/hls-p/ingest_874_*/*~hmac=4a46596332062715e593fbbfea62ecc1f8cc6aad89f3305cb961a4bc006e6a87/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="VIDIO",Berita Satu
+https://etslive-2-vidio-com.akamaized.net/exp=1613257083~acl=/hls-p/ingest_6165_*/*~hmac=afd704f1beba68df6621b7367339a9df27c6c2ecadbb2c8b32b2004dfceee4a6/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="VIDIO",Metro TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257203~acl=/hls-p/ingest_777_*/*~hmac=48bc385ae2b6dd6478b3ccbef0c8207c88405bbf443259ce2fc1cc61f5c9760a/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="VIDIO",Trans TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257212~acl=/hls-p/ingest_733_*/*~hmac=4fe9d791d30eccf3d727a3acf00a6740813f55a65d2a792d1c346733072e60b3/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="VIDIO",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1613257084~acl=/hls-p/ingest_665_*/*~hmac=ad54947925b8152a891e62484d6f7ff2e1a5e7d903f1d9a3a2f548f27c3799f5/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="VIDIO",Trans7
+https://etslive-2-vidio-com.akamaized.net/exp=1613257055~acl=/hls-p/ingest_734_*/*~hmac=74b199eede1e122c5135d71ca980eb43c8cc48bd4326da52005f3d17ccc63f07/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="VIDIO",MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613256927~acl=/hls-p/ingest_870_*/*~hmac=19dae41f526f9ceec8f4cbd8cb526b8e5b514df299133e02ca60894f2c50e0d8/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="VIDIO",JakTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257226~acl=/hls-p/ingest_5415_*/*~hmac=e09e66dee9c45bac0e99f0cfef21a8cf2401ca1b59c9ff2af650d74b502bd65a/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="VIDIO",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257047~acl=/hls-p/ingest_778_*/*~hmac=991348ea8b062a332f078dff2f1ba05224be15fa66cffd52a65b5367ae93c7e5/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="VIDIO",NET.
+https://etslive-2-vidio-com.akamaized.net/exp=1613257032~acl=/hls-p/ingest_875_*/*~hmac=aff45bb3bbf1d167f0c867271b60a5cb79e099f7d14a6395dad533ff2426a309/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="VIDIO",iNews
+https://etslive-2-vidio-com.akamaized.net/exp=1613257228~acl=/hls-p/ingest_5409_*/*~hmac=59e2d3da66ec962bdad2f73e10163d1800cab3d650ccd465fe3c8a1ebe0dc3fa/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/oshop.png" group-title="VIDIO",O SHop
+https://etslive-2-vidio-com.akamaized.net/exp=1613257229~acl=/hls-p/ingest_6166_*/*~hmac=e531a9963e12ddf141b3d00d12249eb0bb7e60fbf37279f2932a68d5521d4dc5/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="VIDIO",TVRI
+https://etslive-2-vidio-com.akamaized.net/exp=1613257103~acl=/hls-p/ingest_6441_*/*~hmac=aa1dfc4b9c7e8037f2fd6685adc5cbf83cea2193f8a08297a4240f769e02021f/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mytv.png" group-title="VIDIO",MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257085~acl=/hls-p/ingest_6711_*/*~hmac=6a6a315a59816bc200ff6b8c129b47a4d8d44c8ab5a4a7d6eddae22bcc16c406/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/magnatv.png" group-title="VIDIO",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://dusktill.masuk.web.id/img/ntv.png" group-title="VIDIO",Nusantara TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257231~acl=/hls-p/ingest_7432_*/*~hmac=4686bcb37066db235b124b2e3d45f4e4b517e39d6563c5c411fed500715a9e1f/hls-p/ingest_7432_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="VIDIO",DAAI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257232~acl=/hls-p/ingest_6482_*/*~hmac=d1e2133dedf1a8cf9858c2f45417afe5a5a85589c5ed28b7167c7bb14f1983c8/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/vidioentertainment.png" group-title="VIDIO",Vidio Entertainment
+https://etslive-2-vidio-com.akamaized.net/exp=1613257233~acl=/hls-p/ingest_7352_*/*~hmac=a1fd57807f4dd86746354b38e7e137f6f0ae3e849403a5081c1c2660a4319114/hls-p/ingest_7352_720p/index.m3u8
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://dusktill.masuk.web.id/img/dw.png" group-title="VIDIO",DW English
+https://etslive-2-vidio-com.akamaized.net/exp=1613257095~acl=/hls-p/ingest_5075_*/*~hmac=5e964edd65fb242a99a6ce4cd9374c05ad35aa4f46ac7e54736e9b8ca6ffeab6/hls-p/ingest_5075_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/tvedukasi.png" group-title="VIDIO",TV Edukasi
+https://etslive-2-vidio-com.akamaized.net/exp=1613257034~acl=/hls-p/ingest_6838_*/*~hmac=8623e7d021be00f49b44098613656d585960532214d6125ecb55fe56b4974ebf/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="VIDIO",RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1613257235~acl=/hls-p/ingest_geo_1561_*/*~hmac=29df1b756eebedb3cbd6977a9ee7e2a504abb9e3d60b031411af22ffae44fad3/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/uefavidio.png" group-title="VIDIO",UEFA Road to Victory - Vidio Sport
+https://etslive-2-vidio-com.akamaized.net/exp=1613257236~acl=/hls-p/ingest_10005_*/*~hmac=ecbede258e751670dc2dbedc704005deb460afc4f5a12ca36ce27bf8e84a039d/hls-p/ingest_10005_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
 http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="OXYGEN",INDOSIAR
